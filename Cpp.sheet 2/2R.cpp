@@ -1,4 +1,4 @@
-1.// Problem name: (R)
+1.// Problem name: (R) sequence of numbers and sum
 2.// Course title: Competitive Programming Sessional
 3.// Course code: CCE-2310
 4.// Course teacher name: Mirza Raquib
