@@ -1,4 +1,4 @@
-1.// Problem name: (S) 
+1.// Problem name: (S) Sum of Consecutive odd numbers
 2.// Course title: Competitive Programming Sessional
 3.// Course code: CCE-2310
 4.// Course teacher name: Mirza Raquib
